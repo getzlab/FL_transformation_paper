@@ -1,6 +1,6 @@
 # FL_transformation_paper
 
-This repository contains code to reproduce the results in Haradhvala, Yiu, Beckmann et al. Cancer Discovery 2026. 
+This repository contains code to reproduce the results in Haradhvala, Yiu, Beckmann et al. Cancer Discovery 2026. Code for analyses related to the CODEX data (Figure 6-7) is availabe at zenodo along with the CODEX data.
 
 ## Data download
 
